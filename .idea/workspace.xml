@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5cc5b32d-8f4f-4697-908e-f3f882ae0af2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/G-FML.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/clients/clientours.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/utils/model_utils.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2021.1/remote_sources/1853625102/-302105919/sklearn/utils/validation.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/servers/serverours.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/config/config.ini" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/cal_acc.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/models/task_embedding.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/transformToJson.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/models/cnn.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2fABmC2TcKFidUdkRwaansqMVus" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.TransformToJson.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/liuziang/project/Aoki/DGPFML&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/cifar-100-python/test" />
+      <recent name="$PROJECT_DIR$/data/cifar-100-python/train" />
+      <recent name="D:\others\G-FML" />
+      <recent name="D:\others\G-FML\data\cifar-100-python\train_lza" />
+      <recent name="D:\others\G-FML\data\cifar-100-python\test_lza" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="cal_acc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="G-FML" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cal_acc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="G-FML" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="G-FML" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/model_utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_embedding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="G-FML" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/visual_embedding" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visual_embedding/plot_embedding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pre_lenet_cifar_init" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="G-FML" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/saved_models/pretrain" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/saved_models/pretrain/pre_lenet_cifar_init.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="transformToJson" type="PythonConfigurationType" factoryName="Python">
+      <module name="G-FML" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://MP2209103@172.25.128.201:22/share/home/MP2209103/anaconda3/envs/torch_env/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transformToJson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.transformToJson" />
+      <item itemvalue="Python.cal_acc" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.model_utils" />
+      <item itemvalue="Python.plot_embedding" />
+      <item itemvalue="Python.pre_lenet_cifar_init" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.cal_acc" />
+        <item itemvalue="Python.model_utils" />
+        <item itemvalue="Python.pre_lenet_cifar_init" />
+        <item itemvalue="Python.plot_embedding" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cc5b32d-8f4f-4697-908e-f3f882ae0af2" name="Default Changelist" comment="" />
+      <created>1713234160579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713234160579</updated>
+      <workItem from="1713234162641" duration="3967000" />
+      <workItem from="1713247869393" duration="9609000" />
+      <workItem from="1713314289806" duration="2739000" />
+      <workItem from="1713835701915" duration="254000" />
+      <workItem from="1713838578737" duration="1474000" />
+      <workItem from="1713858302211" duration="1481000" />
+      <workItem from="1713924061338" duration="1204000" />
+      <workItem from="1713925497138" duration="3296000" />
+      <workItem from="1713941844322" duration="7323000" />
+      <workItem from="1714116780357" duration="4881000" />
+      <workItem from="1714124754764" duration="1590000" />
+      <workItem from="1714265129830" duration="10952000" />
+      <workItem from="1714284675658" duration="1676000" />
+      <workItem from="1714355215662" duration="2358000" />
+      <workItem from="1714359709528" duration="1109000" />
+      <workItem from="1714370417268" duration="3588000" />
+      <workItem from="1714457652247" duration="2354000" />
+      <workItem from="1715566203079" duration="2884000" />
+      <workItem from="1715580846873" duration="6127000" />
+      <workItem from="1715647666067" duration="5552000" />
+      <workItem from="1715666860014" duration="7370000" />
+      <workItem from="1715733898795" duration="2544000" />
+      <workItem from="1715753054646" duration="60000" />
+      <workItem from="1715760921713" duration="2806000" />
+      <workItem from="1715772078976" duration="1847000" />
+      <workItem from="1715826014856" duration="1696000" />
+      <workItem from="1715840728818" duration="3797000" />
+      <workItem from="1715906242867" duration="6338000" />
+      <workItem from="1715933026990" duration="967000" />
+      <workItem from="1715936032188" duration="965000" />
+      <workItem from="1715943371489" duration="334000" />
+      <workItem from="1716167549729" duration="2263000" />
+      <workItem from="1716185339869" duration="3432000" />
+      <workItem from="1716252860307" duration="5507000" />
+      <workItem from="1716273340881" duration="2243000" />
+      <workItem from="1716275618552" duration="6980000" />
+      <workItem from="1716358113360" duration="1931000" />
+      <workItem from="1716510437660" duration="5175000" />
+      <workItem from="1716532946747" duration="7432000" />
+      <workItem from="1716772864172" duration="4799000" />
+      <workItem from="1716791127388" duration="1468000" />
+      <workItem from="1716795935450" duration="6233000" />
+      <workItem from="1716857753468" duration="14474000" />
+      <workItem from="1716884667867" duration="3783000" />
+      <workItem from="1716943986349" duration="8395000" />
+      <workItem from="1716952602914" duration="476000" />
+      <workItem from="1716964635816" duration="8837000" />
+      <workItem from="1717052271223" duration="8319000" />
+      <workItem from="1717116488660" duration="8604000" />
+      <workItem from="1717138174695" duration="1899000" />
+      <workItem from="1717140116817" duration="2017000" />
+      <workItem from="1717142288848" duration="4544000" />
+      <workItem from="1717381157795" duration="3145000" />
+      <workItem from="1717395244370" duration="5831000" />
+      <workItem from="1717461940741" duration="1610000" />
+      <workItem from="1717485405276" duration="4637000" />
+      <workItem from="1717655318482" duration="5529000" />
+      <workItem from="1717743432358" duration="7157000" />
+      <workItem from="1718067487028" duration="8103000" />
+      <workItem from="1718087123894" duration="1035000" />
+      <workItem from="1718159250905" duration="2199000" />
+      <workItem from="1718264496435" duration="6336000" />
+      <workItem from="1718326393911" duration="4543000" />
+      <workItem from="1718346599229" duration="6322000" />
+      <workItem from="1718503386242" duration="4497000" />
+      <workItem from="1718519882453" duration="11009000" />
+      <workItem from="1718585515840" duration="7248000" />
+      <workItem from="1718611141658" duration="4652000" />
+      <workItem from="1718620506336" duration="2375000" />
+      <workItem from="1718670803252" duration="10140000" />
+      <workItem from="1718692329843" duration="9766000" />
+      <workItem from="1718758535373" duration="17854000" />
+      <workItem from="1718784645758" duration="2581000" />
+      <workItem from="1718844868674" duration="9940000" />
+      <workItem from="1718931559770" duration="20564000" />
+      <workItem from="1719022082656" duration="3808000" />
+      <workItem from="1719109180393" duration="4411000" />
+      <workItem from="1719124606865" duration="10108000" />
+      <workItem from="1719187917942" duration="22305000" />
+      <workItem from="1719276467238" duration="19750000" />
+      <workItem from="1719322563016" duration="189000" />
+      <workItem from="1719322774819" duration="72000" />
+      <workItem from="1719365207821" duration="7156000" />
+      <workItem from="1719381643673" duration="11505000" />
+      <workItem from="1719394113259" duration="6000" />
+      <workItem from="1719402969398" duration="4715000" />
+      <workItem from="1719450177616" duration="3454000" />
+      <workItem from="1719467693184" duration="1960000" />
+      <workItem from="1719484165499" duration="9178000" />
+      <workItem from="1719535441144" duration="20307000" />
+      <workItem from="1719576359386" duration="3952000" />
+      <workItem from="1719640522990" duration="4375000" />
+      <workItem from="1719646112588" duration="6474000" />
+      <workItem from="1719713465724" duration="7727000" />
+      <workItem from="1719728788104" duration="20143000" />
+      <workItem from="1719793399467" duration="8055000" />
+      <workItem from="1719813450729" duration="18065000" />
+      <workItem from="1719880407314" duration="24290000" />
+      <workItem from="1719967007576" duration="29569000" />
+      <workItem from="1720053939369" duration="24795000" />
+      <workItem from="1720141646696" duration="18304000" />
+      <workItem from="1720230275497" duration="4451000" />
+      <workItem from="1720439612668" duration="354000" />
+      <workItem from="1720487054802" duration="16190000" />
+      <workItem from="1720573099613" duration="4389000" />
+      <workItem from="1720586440618" duration="8487000" />
+      <workItem from="1720657070944" duration="12023000" />
+      <workItem from="1720701066110" duration="5111000" />
+      <workItem from="1720780435423" duration="6553000" />
+      <workItem from="1721004553005" duration="17467000" />
+      <workItem from="1721091103968" duration="5596000" />
+      <workItem from="1721110357226" duration="16505000" />
+      <workItem from="1721194400278" duration="10505000" />
+      <workItem from="1721266137036" duration="11475000" />
+      <workItem from="1721347468637" duration="2802000" />
+      <workItem from="1721390423423" duration="3465000" />
+      <workItem from="1721434654137" duration="1006000" />
+      <workItem from="1721436718789" duration="691000" />
+      <workItem from="1721437532900" duration="13558000" />
+      <workItem from="1721551847286" duration="7421000" />
+      <workItem from="1721607209157" duration="18315000" />
+      <workItem from="1721697643915" duration="3437000" />
+      <workItem from="1721702711401" duration="1437000" />
+      <workItem from="1721713463270" duration="1934000" />
+      <workItem from="1721715976932" duration="2215000" />
+      <workItem from="1721722074819" duration="816000" />
+      <workItem from="1721727481840" duration="874000" />
+      <workItem from="1721728778130" duration="4624000" />
+      <workItem from="1721776612223" duration="3076000" />
+      <workItem from="1721802339651" duration="7336000" />
+      <workItem from="1721890349456" duration="767000" />
+      <workItem from="1721989098357" duration="2791000" />
+      <workItem from="1722425850575" duration="837000" />
+      <workItem from="1724110390108" duration="87000" />
+      <workItem from="1725532469459" duration="992000" />
+      <workItem from="1730786442890" duration="1362000" />
+      <workItem from="1731078841098" duration="4069000" />
+      <workItem from="1731129713008" duration="8356000" />
+      <workItem from="1731252332809" duration="3248000" />
+      <workItem from="1731306944113" duration="6831000" />
+      <workItem from="1731391533771" duration="13046000" />
+      <workItem from="1731481041874" duration="5567000" />
+      <workItem from="1731549354813" duration="985000" />
+      <workItem from="1731551222060" duration="376000" />
+      <workItem from="1731552661713" duration="1017000" />
+      <workItem from="1731555336884" duration="7164000" />
+      <workItem from="1731640016547" duration="19593000" />
+      <workItem from="1731674427809" duration="2436000" />
+      <workItem from="1731676874641" duration="4445000" />
+      <workItem from="1731726571526" duration="5359000" />
+      <workItem from="1731737150407" duration="9393000" />
+      <workItem from="1731751537451" duration="1000" />
+      <workItem from="1731762578589" duration="1554000" />
+      <workItem from="1731764285898" duration="2267000" />
+      <workItem from="1731766572756" duration="405000" />
+      <workItem from="1731812146884" duration="4328000" />
+      <workItem from="1731817291267" duration="6518000" />
+      <workItem from="1731842230908" duration="6908000" />
+      <workItem from="1731910780550" duration="820000" />
+      <workItem from="1737116839761" duration="4709000" />
+      <workItem from="1737125103457" duration="237000" />
+      <workItem from="1737125402863" duration="461000" />
+      <workItem from="1737126489881" duration="799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self" />
+        <watch expression="self" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/G_FML$model_utils.coverage" NAME="model_utils Coverage Results" MODIFIED="1731395206084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/G_FML$pre_lenet_init.coverage" NAME="pre_lenet_init Coverage Results" MODIFIED="1719276664861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/saved_models/pretrain" />
+    <SUITE FILE_PATH="coverage/G_FML$TransformToJson.coverage" NAME="TransformToJson Coverage Results" MODIFIED="1731558275932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python/1" />
+    <SUITE FILE_PATH="coverage/G_FML$pre_dnn_init.coverage" NAME="pre_dnn_init Coverage Results" MODIFIED="1721642396467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/saved_models/pretrain" />
+    <SUITE FILE_PATH="coverage/G_FML$serverours.coverage" NAME="serverours Coverage Results" MODIFIED="1720143328737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/servers" />
+    <SUITE FILE_PATH="coverage/G_FML$pre_lenet_mnist.coverage" NAME="pre_lenet_mnist Coverage Results" MODIFIED="1719282150306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/saved_models/pretrain" />
+    <SUITE FILE_PATH="coverage/DGPFML$main.coverage" NAME="main Coverage Results" MODIFIED="1737121115939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/G_FML$clientours.coverage" NAME="clientours Coverage Results" MODIFIED="1718592123239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/clients" />
+    <SUITE FILE_PATH="coverage/G_FML$plot_embedding.coverage" NAME="plot_embedding Coverage Results" MODIFIED="1731082077629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/visual_embedding" />
+    <SUITE FILE_PATH="coverage/G_FML$main.coverage" NAME="main Coverage Results" MODIFIED="1731821849287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/G_FML$dataloader_utils.coverage" NAME="dataloader_utils Coverage Results" MODIFIED="1719405249957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/G_FML$pre_lenet_cifar_init.coverage" NAME="pre_lenet_cifar_init Coverage Results" MODIFIED="1731082179661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/saved_models/pretrain" />
+    <SUITE FILE_PATH="coverage/G_FML$personal_comparsion.coverage" NAME="personal comparsion Coverage Results" MODIFIED="1731082006256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/results/new" />
+    <SUITE FILE_PATH="coverage/G_FML$cal_acc.coverage" NAME="cal_acc Coverage Results" MODIFIED="1731398401216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/G_FML$test.coverage" NAME="test Coverage Results" MODIFIED="1731648530107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python/1" />
+    <SUITE FILE_PATH="coverage/G_FML$transformToJson.coverage" NAME="transformToJson Coverage Results" MODIFIED="1731400216984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/G_FML$clientbase.coverage" NAME="clientbase Coverage Results" MODIFIED="1719917549567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/clients" />
+    <SUITE FILE_PATH="coverage/G_FML$try.coverage" NAME="try Coverage Results" MODIFIED="1717143461386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/clients" />
+    <SUITE FILE_PATH="coverage/G_FML$task_embedding.coverage" NAME="task_embedding Coverage Results" MODIFIED="1719194309388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+  </component>
+</project>

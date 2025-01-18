@@ -1,0 +1,90 @@
+[shakespeare]
+; ["femnist", "synthetic", "mnist", "shakespeare"]
+dataset=shakespeare
+; ["FedAvg", "PerAvg", "CFML", "Ours"]
+algorithm=Ours
+; Learning rate for inner loop
+inner_lr=0.8
+; Learning rate for outer loop (Meta-Learning)
+outer_lr=0.3
+; Number of clusters
+K_clusters=4
+; Print info After eval_gap rounds
+eval_gap=10
+; Number of Users per round
+num_select_clients=10
+; ["dnn", "mclr", "cnn", "lstm"]
+model=lstm
+batch_size=16
+optimizer=SGD
+local_epochs=5
+test_epochs=1
+num_round=200
+
+; ; ------------------------------------------------------
+
+; [femnist]
+; ; ["femnist", "synthetic", "mnist"]
+; dataset=femnist
+; ; ["FedAvg", "PerAvg", "CFML", "Ours"]
+; algorithm=Ours
+; ; Learning rate for inner loop
+; inner_lr=0.003
+; ; Learning rate for outer loop (Meta-Learning)
+; outer_lr=0.001
+; ; Number of clusters
+; K_clusters=2
+; ; Print info After eval_gap rounds
+; eval_gap=10
+; ; Number of Users per round
+; num_select_clients=10
+; ; ["dnn", "mclr", "cnn"]
+; model=dnn
+; batch_size=10
+; optimizer=SGD
+; local_epochs=5
+; test_epochs=1
+; num_round=800
+
+; ------------------------------------------------------
+
+; [synthetic]
+; ; ["femnist", "synthetic", "mnist"]
+; dataset=synthetic
+; ; ["FedAvg", "PerAvg", "CFML", "Ours"]
+; algorithm=Ours
+; ; Learning rate for inner loop
+; inner_lr=0.01
+; ; Learning rate for outer loop (Meta-Learning)
+; outer_lr=0.005
+; ; Number of clusters
+; K_clusters=2
+; ; Print info After eval_gap rounds
+; eval_gap=10
+; ; Number of Users per round
+; num_select_clients=10
+; ; ["dnn", "mclr", "cnn"]
+; model=mclr
+; batch_size=10
+; optimizer=SGD
+; local_epochs=5
+; test_epochs=1
+; num_round=600
+; lamda=0.1
+
+[shakespeare]
+dataset = cifar10
+algorithm = FedProx
+inner_lr = 0.005
+outer_lr = 0.003
+k_clusters = 4
+eval_gap = 10
+num_select_clients = 10
+model = lenet
+batch_size = 20
+optimizer = SGD
+local_epochs = 10
+test_epochs = 1
+num_round = 300
+lamda = 0.001
+fixed_weight = False
